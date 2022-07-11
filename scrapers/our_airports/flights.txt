@@ -1,0 +1,335 @@
+                    <tr class="timetable-record status-departed">
+                        <td class="timetable-time">21:30</td>
+                        <td class="timetable-date">30 June</td>
+                        <td class="timetable-status">Departed 21:37</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/HYD/arrivals" title="Hyderabad HYD arrivals">Hyderabad HYD</a></td>
+                        <td class="timetable-airline">Alliance Air</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/9I_LLR/868?ts=1656613800000'>9I868</a> 
+                            <a href="" title="Codeshare flights" class="timetable-childrenCount">1</a>
+                        </td>
+                    </tr>
+                    
+                        <tr class="timetable-record status-departed timetable-childFlight">
+                            <td class="timetable-time">21:30</td>
+                            <td class="timetable-date">30 June</td>
+                            <td class="timetable-status">Departed 21:37</td>
+                            <td class="timetable-airport"><a target="_blank" href="/en/airport/HYD/arrivals" title="Hyderabad HYD arrivals">Hyderabad HYD</a></td>
+                            <td class="timetable-airline">Air India</td>
+                            <td class="timetable-flight"><a target="_blank" href='/en/flights/AI_AIC/9868?ts=1656613800000'>AI9868</a> 
+                                <a href="" title="Codeshare flights" class="timetable-childrenCount">1</a>
+                            </td>
+                        </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-estimated">
+                        <td class="timetable-time">22:25</td>
+                        <td class="timetable-date">30 June</td>
+                        <td class="timetable-status">Estimated 22:35</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/BLR/arrivals" title="Bengaluru BLR arrivals">Bengaluru BLR</a></td>
+                        <td class="timetable-airline">IndiGo</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/6E_IGO/103?ts=1656617100000'>6E103</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-estimated">
+                        <td class="timetable-time">22:30</td>
+                        <td class="timetable-date">30 June</td>
+                        <td class="timetable-status">Estimated 01:00</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/MAA/arrivals" title="Chennai MAA arrivals">Chennai MAA</a></td>
+                        <td class="timetable-airline">SpiceJet</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/SG_SEJ/444?ts=1656617400000'>SG444</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-estimated">
+                        <td class="timetable-time">22:35</td>
+                        <td class="timetable-date">30 June</td>
+                        <td class="timetable-status">Estimated 22:35</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/DEL/arrivals" title="Delhi DEL arrivals">Delhi DEL</a></td>
+                        <td class="timetable-airline">GoAir</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/G8_GOW/176?ts=1656617700000'>G8176</a> 
+                            <a href="" title="Codeshare flights" class="timetable-childrenCount">1</a>
+                        </td>
+                    </tr>
+                    
+                        <tr class="timetable-record status-estimated timetable-childFlight">
+                            <td class="timetable-time">22:35</td>
+                            <td class="timetable-date">30 June</td>
+                            <td class="timetable-status">Estimated 22:35</td>
+                            <td class="timetable-airport"><a target="_blank" href="/en/airport/DEL/arrivals" title="Delhi DEL arrivals">Delhi DEL</a></td>
+                            <td class="timetable-airline">FlexFlight</td>
+                            <td class="timetable-flight"><a target="_blank" href='/en/flights/W2_FXT/8934?ts=1656617700000'>W28934</a> 
+                                <a href="" title="Codeshare flights" class="timetable-childrenCount">1</a>
+                            </td>
+                        </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-estimated">
+                        <td class="timetable-time">22:40</td>
+                        <td class="timetable-date">30 June</td>
+                        <td class="timetable-status">Estimated </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/AMD/arrivals" title="Ahmedabad AMD arrivals">Ahmedabad AMD</a></td>
+                        <td class="timetable-airline">IndiGo</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/6E_IGO/547?ts=1656618000000'>6E547</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-estimated">
+                        <td class="timetable-time">22:50</td>
+                        <td class="timetable-date">30 June</td>
+                        <td class="timetable-status">Estimated 22:50</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/BLR/arrivals" title="Bengaluru BLR arrivals">Bengaluru BLR</a></td>
+                        <td class="timetable-airline">GoAir</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/G8_GOW/284?ts=1656618600000'>G8284</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-scheduled">
+                        <td class="timetable-time">23:00</td>
+                        <td class="timetable-date">30 June</td>
+                        <td class="timetable-status">Scheduled </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/AMD/arrivals" title="Ahmedabad AMD arrivals">Ahmedabad AMD</a></td>
+                        <td class="timetable-airline">SpiceJet</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/SG_SEJ/1078?ts=1656619200000'>SG1078</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-estimated">
+                        <td class="timetable-time">23:15</td>
+                        <td class="timetable-date">30 June</td>
+                        <td class="timetable-status">Estimated 23:35</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/GOI/arrivals" title="Goa GOI arrivals">Goa GOI</a></td>
+                        <td class="timetable-airline">SpiceJet</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/SG_SEJ/8190?ts=1656620100000'>SG8190</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-scheduled">
+                        <td class="timetable-time">23:40</td>
+                        <td class="timetable-date">30 June</td>
+                        <td class="timetable-status">Scheduled </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/MAA/arrivals" title="Chennai MAA arrivals">Chennai MAA</a></td>
+                        <td class="timetable-airline">IndiGo</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/6E_IGO/6658?ts=1656621600000'>6E6658</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-scheduled">
+                        <td class="timetable-time">23:45</td>
+                        <td class="timetable-date">30 June</td>
+                        <td class="timetable-status">Scheduled </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/IXE/arrivals" title="Mangalore IXE arrivals">Mangalore IXE</a></td>
+                        <td class="timetable-airline">IndiGo</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/6E_IGO/671?ts=1656621900000'>6E671</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-scheduled">
+                        <td class="timetable-time">23:55</td>
+                        <td class="timetable-date">30 June</td>
+                        <td class="timetable-status">Scheduled </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/BLR/arrivals" title="Bengaluru BLR arrivals">Bengaluru BLR</a></td>
+                        <td class="timetable-airline">AirAsia India</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/I5_IAD/975?ts=1656622500000'>I5975</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-scheduled">
+                        <td class="timetable-time">00:05</td>
+                        <td class="timetable-date">01 July</td>
+                        <td class="timetable-status">Scheduled </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/HYD/arrivals" title="Hyderabad HYD arrivals">Hyderabad HYD</a></td>
+                        <td class="timetable-airline">IndiGo</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/6E_IGO/122?ts=1656623100000'>6E122</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-scheduled">
+                        <td class="timetable-time">00:05</td>
+                        <td class="timetable-date">01 July</td>
+                        <td class="timetable-status">Scheduled </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/GOI/arrivals" title="Goa GOI arrivals">Goa GOI</a></td>
+                        <td class="timetable-airline">IndiGo</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/6E_IGO/6876?ts=1656623100000'>6E6876</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-scheduled">
+                        <td class="timetable-time">00:10</td>
+                        <td class="timetable-date">01 July</td>
+                        <td class="timetable-status">Scheduled </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/DEL/arrivals" title="Delhi DEL arrivals">Delhi DEL</a></td>
+                        <td class="timetable-airline">IndiGo</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/6E_IGO/672?ts=1656623400000'>6E672</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-scheduled">
+                        <td class="timetable-time">00:15</td>
+                        <td class="timetable-date">01 July</td>
+                        <td class="timetable-status">Scheduled </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/NAG/arrivals" title="Nagpur NAG arrivals">Nagpur NAG</a></td>
+                        <td class="timetable-airline">IndiGo</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/6E_IGO/221?ts=1656623700000'>6E221</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-scheduled">
+                        <td class="timetable-time">00:50</td>
+                        <td class="timetable-date">01 July</td>
+                        <td class="timetable-status">Scheduled </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/LKO/arrivals" title="Lucknow LKO arrivals">Lucknow LKO</a></td>
+                        <td class="timetable-airline">IndiGo</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/6E_IGO/6808?ts=1656625800000'>6E6808</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-scheduled">
+                        <td class="timetable-time">01:00</td>
+                        <td class="timetable-date">01 July</td>
+                        <td class="timetable-status">Scheduled </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/BLR/arrivals" title="Bengaluru BLR arrivals">Bengaluru BLR</a></td>
+                        <td class="timetable-airline">IndiGo</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/6E_IGO/284?ts=1656626400000'>6E284</a> 
+                            <a href="" title="Codeshare flights" class="timetable-childrenCount">1</a>
+                        </td>
+                    </tr>
+                    
+                        <tr class="timetable-record status-scheduled timetable-childFlight">
+                            <td class="timetable-time">01:00</td>
+                            <td class="timetable-date">01 July</td>
+                            <td class="timetable-status">Scheduled </td>
+                            <td class="timetable-airport"><a target="_blank" href="/en/airport/BLR/arrivals" title="Bengaluru BLR arrivals">Bengaluru BLR</a></td>
+                            <td class="timetable-airline">KLM</td>
+                            <td class="timetable-flight"><a target="_blank" href='/en/flights/KL_KLM/3711?ts=1656626400000'>KL3711</a> 
+                                <a href="" title="Codeshare flights" class="timetable-childrenCount">1</a>
+                            </td>
+                        </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-estimated">
+                        <td class="timetable-time">01:05</td>
+                        <td class="timetable-date">01 July</td>
+                        <td class="timetable-status">Estimated 01:10</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/MAA/arrivals" title="Chennai MAA arrivals">Chennai MAA</a></td>
+                        <td class="timetable-airline">IndiGo</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/6E_IGO/553?ts=1656626700000'>6E553</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-scheduled">
+                        <td class="timetable-time">01:20</td>
+                        <td class="timetable-date">01 July</td>
+                        <td class="timetable-status">Scheduled </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/JAI/arrivals" title="Jaipur JAI arrivals">Jaipur JAI</a></td>
+                        <td class="timetable-airline">IndiGo</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/6E_IGO/6406?ts=1656627600000'>6E6406</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-scheduled">
+                        <td class="timetable-time">01:30</td>
+                        <td class="timetable-date">01 July</td>
+                        <td class="timetable-status">Scheduled </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/BLR/arrivals" title="Bengaluru BLR arrivals">Bengaluru BLR</a></td>
+                        <td class="timetable-airline">GoAir</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/G8_GOW/293?ts=1656628200000'>G8293</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-scheduled">
+                        <td class="timetable-time">01:30</td>
+                        <td class="timetable-date">01 July</td>
+                        <td class="timetable-status">Scheduled </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/BLR/arrivals" title="Bengaluru BLR arrivals">Bengaluru BLR</a></td>
+                        <td class="timetable-airline">FlexFlight</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/W2_FXT/8988?ts=1656628200000'>W28988</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-scheduled">
+                        <td class="timetable-time">01:35</td>
+                        <td class="timetable-date">01 July</td>
+                        <td class="timetable-status">Scheduled </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/DEL/arrivals" title="Delhi DEL arrivals">Delhi DEL</a></td>
+                        <td class="timetable-airline">AirAsia India</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/I5_IAD/738?ts=1656628500000'>I5738</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-scheduled">
+                        <td class="timetable-time">01:40</td>
+                        <td class="timetable-date">01 July</td>
+                        <td class="timetable-status">Scheduled </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/DEL/arrivals" title="Delhi DEL arrivals">Delhi DEL</a></td>
+                        <td class="timetable-airline">GoAir</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/G8_GOW/3156?ts=1656628800000'>G83156</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-cancelled">
+                        <td class="timetable-time">02:00</td>
+                        <td class="timetable-date">01 July</td>
+                        <td class="timetable-status">Cancelled </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/DEL/arrivals" title="Delhi DEL arrivals">Delhi DEL</a></td>
+                        <td class="timetable-airline">IndiGo</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/6E_IGO/681?ts=1656630000000'>6E681</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-scheduled">
+                        <td class="timetable-time">02:15</td>
+                        <td class="timetable-date">01 July</td>
+                        <td class="timetable-status">Scheduled </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/COK/arrivals" title="Kochi COK arrivals">Kochi COK</a></td>
+                        <td class="timetable-airline">IndiGo</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/6E_IGO/6698?ts=1656630900000'>6E6698</a> </td>
+                    </tr>

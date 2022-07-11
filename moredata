@@ -1,0 +1,225 @@
+[{
+    "faretype": "REGULAR",
+    "trip_sector": ["domestic", "international"],
+    "trip_type": ["ow", "rt", "multi"],
+    "flavour": ["desktop"],
+    "fare_class": ["economy", "premium economy", "business", "first class"],
+    "paxProfile": {
+        "adult": 9,
+        "child": 8,
+        "infant": 8
+    },
+    "bookingdate": {
+        "start": "20210101",
+        "end": "20300101"
+    },
+    "details": {},
+    "pdt_details": {
+        "action_name": "regular_fare_selected",
+        "extra_seat_selected": "regular_fare"
+    },
+    "isnew": false,
+    "identifier": "",
+    "bottom_sheet": {}
+}, {
+    "faretype": "Armed Forces",
+    "trip_sector": ["domestic", "international"],
+    "trip_type": ["ow", "rt", "multi"],
+    "flavour": ["android", "ios", "desktop", "mobile"],
+    "fare_class": ["economy", "premium economy"],
+    "paxProfile": {
+        "adult": 9,
+        "child": 8,
+        "infant": 8
+    },
+    "bookingdate": {
+        "start": "20210525",
+        "end": "20300601"
+    },
+    "error_details": {
+        "paxProfile": {
+            "text": "Update the search parameters to avail benifits of defence fares or continue to book in regular fare"
+        },
+        "trip_sector": {
+            "text": "Not available on International sectors. You may continue to book in regular fare"
+        },
+        "trip_type": {
+            "text": "Update the search parameters to avail benifits of defence fares or continue to book in regular fare"
+        },
+        "fare_class": {
+            "text": "Book economy or premium economy to avail benifits of defence fares or continue to book in regular fare"
+        },
+        "bookingdate": {
+            "text": "Update the search parameters to avail benifits of defence fares or continue to book in regular fare"
+        },
+        "default": {
+            "text": "Update the search parameters to avail benifits of defence fares or continue to book in regular fare"
+        }
+    },
+    "details": {
+        "icon": "https://gos3.ibcdn.com/defence-1628754836.png",
+        "text": "Armed Forces",
+        "subtext": "Mandatory for all travellers to carry a valid <b>ARMED FORCES ID</b> or <b>dependent card</b> at the time of boarding"
+    },
+    "pdt_details": {
+        "action_name": "defence_fare_selected",
+        "extra_seat_selected": "defence"
+    },
+    "bottom_sheet": {},
+    "isnew": true,
+    "identifier": "ft=a"
+}, {
+    "faretype": "Senior Citizen",
+    "trip_sector": ["domestic"],
+    "trip_type": ["ow", "rt"],
+    "flavour": ["android", "ios", "desktop", "mobile"],
+    "fare_class": ["economy"],
+    "paxProfile": {
+        "adult": 9
+    },
+    "bookingdate": {
+        "start": "20210525",
+        "end": "20300601"
+    },
+    "error_details": {
+        "paxProfile": {
+            "text": "Only adults can avail benifits of senior citizen fares. You may continue to book in regular fare or de-select child/infant"
+        },
+        "trip_sector": {
+            "text": "Not available on international sectors. You may continue to book in regular fare"
+        },
+        "trip_type": {
+            "text": "Not available for multi-city bookings. You may continue to book in regular fare or book One-way/ Round Trip."
+        },
+        "fare_class": {
+            "text": "Only available for economy class. You may continue to book in regular fare or book economy class"
+        },
+        "bookingdate": {
+            "text": "Update the search parameters to avail benefits of senior citizen fares or continue to book in regular fare"
+        },
+        "default": {
+            "text": "Update the search parameters to avail benifits of senior citizen fares or continue to book in regular fare"
+        }
+    },
+    "details": {
+        "icon": "https://gos3.ibcdn.com/senior-1628684269.png",
+        "text": "SENIOR CITIZENS",
+        "subtext": "Applicable for citizens <b>above 60 years</b> of age. Please provide valid proof of age at the airport. "
+    },
+    "pdt_details": {
+        "action_name": "senior_citizen_fare_selected",
+        "extra_seat_selected": "senior_citizen"
+    },
+    "bottom_sheet": {},
+    "isnew": true,
+    "identifier": "ft=sc"
+}, {
+    "faretype": "STUDENT",
+    "trip_sector": ["domestic", "international"],
+    "trip_type": ["ow", "rt", "multi"],
+    "flavour": ["android", "ios", "desktop", "mobile"],
+    "fare_class": ["economy"],
+    "paxProfile": {
+        "adult": 9
+    },
+    "bookingdate": {
+        "start": "20210525",
+        "end": "20300601"
+    },
+    "error_details": {
+        "paxProfile": {
+            "text": "Only adults can avail benifits of student fares. You may continue to book in regular fare or de-select child/infant"
+        },
+        "trip_sector": {
+            "text": "Only available for domestic sectors",
+            "subtext": "Update the search parameters to avail benifits of student fares or continue to book in regular fare"
+        },
+        "trip_type": {
+            "text": "Update the search parameters to avail benifits of student fares or continue to book in regular fare"
+        },
+        "fare_class": {
+            "text": "Only available for economy class. You may continue to book in regular fare or book economy class"
+        },
+        "bookingdate": {
+            "text": "Update the search parameters to avail benifits of student fares or continue to book in regular fare"
+        },
+        "default": {
+            "text": "Update the search parameters to avail benifits of student fares or continue to book in regular fare"
+        }
+    },
+    "details": {
+        "icon": "https://gos3.ibcdn.com/student-1628684284.png",
+        "text": "STUDENTS",
+        "subtext": "Mandatory for all student to carry a valid <b>STUDENT ID</b> card at the time of boarding"
+    },
+    "pdt_details": {
+        "action_name": "student_fare_selected",
+        "extra_seat_selected": "student"
+    },
+    "bottom_sheet": {},
+    "isnew": false,
+    "identifier": "sf=true"
+}, {
+    "faretype": "EXTRA SEAT",
+    "trip_sector": ["domestic"],
+    "trip_type": ["ow"],
+    "flavour": ["android", "ios", "desktop"],
+    "fare_class": ["economy"],
+    "paxProfile": {
+        "adult": 1
+    },
+    "bookingdate": {
+        "start": "20210525",
+        "end": "20300601"
+    },
+    "error_details": {
+        "paxProfile": {
+            "text": "Extra Seat option can only be booked for single adult. Update search parameter, or book in regular fare"
+        },
+        "trip_sector": {
+            "text": "Not available on International sectors. You may continue to book in regular fare"
+        },
+        "trip_type": {
+            "text": "Not available for round-trip/ multi-city bookings. You may continue to book in regular fare or book One-way journey."
+        },
+        "fare_class": {
+            "text": "Only available for economy class. You may continue to book in regular fare or book economy class"
+        },
+        "bookingdate": {
+            "text": "Update the search parameters to book extra seat or continue to book in regular fare"
+        },
+        "default": {
+            "text": "Update the search parameters to book extra seat or continue to book in regular fare"
+        }
+    },
+    "details": {
+        "icon": "https://gos3.ibcdn.com/seat-1628684236.png",
+        "text": "EXTRA SEAT",
+        "subtext": "vacant next to yours"
+    },
+    "pdt_details": {
+        "action_name": "extra_seat_fare_selected",
+        "extra_seat_double": "double",
+        "extra_seat_entire": "row"
+    },
+    "isnew": false,
+    "identifier": "ft=e",
+    "bottom_sheet": {
+        "heading": "Extra Seat",
+        "sub_heading": "The new safe and private in-flight experience for single travellers.",
+        "image_url": "https://gos3.ibcdn.com/extra-seat-1612356315.png",
+        "title_icon": "https://gos3.ibcdn.com/extra-seat-1612356315.png",
+        "body": "Fare type explanation",
+        "details": ["Opt for ‘Extra Seat’ to see flights with vacant adjoining seat(s).", "On flights result page, choose from |+1 extra seat| to get 1 adjoining vacant seat, or |+2 extra seats| to get the full row to yourself.", "The seat(s) will be left vacant for you, against a minimal price."],
+        "tnc": [{
+            "title": "Extra Baggage",
+            "value": "You get extra 10 kgs check-in baggage. Extra cabin baggage is not allowed."
+        }, {
+            "title": "Extra Passengers",
+            "value": "Not allowed to travel in the extra vacant seat. This is only for one traveller."
+        }, {
+            "title": "Date Change",
+            "value": "is not allowed for Extra seat bookings."
+        }]
+    }
+}]

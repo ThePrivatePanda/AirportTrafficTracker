@@ -1,0 +1,737 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="utf-8">
+        <meta name="robots" content="noindex">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Pune Airport (PNQ) arrivals</title>
+        <meta name="description" content="Pune Airport (PNQ) arrivals. The arrivals timetable contains information about flight status of international, domestic and charter airlines, as well delays cancellations.">
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,500;0,600;0,800;1,300;1,500;1,600;1,800&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href='/assets/stylesheets/d7beca900dbb9f71dff035d2e0d1d175-main.min.css'>
+        <script async src='/assets/javascripts/358b61f6f254226a37a359591aecb2d2-main.min.js'></script>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-42124564-5"></script>
+        <link rel="shortcut icon" type="image/png" href="/images/icon-196x196.png">
+        <link rel="shortcut icon" sizes="196x196" href="/images/icon-196x196.png">
+        <link rel="apple-touch-icon" href="/images/icon-196x196.png">
+    </head>
+    <body id="widget-page">
+        <main id="content" class="container">
+
+    
+    
+
+    
+
+
+    <h1>Pune Airport  (PNQ) arrivals timetable</h1>
+
+    <br>
+    <div class="button-group-horizontal">
+        <a href="" class="button button-primary active">Arrivals</a>
+        <a href="/widget/en/PNQ/departures" class="button button-primary">Departures</a>
+    </div>
+    <br>
+    <table class="timetable">
+        <thead class="hidden-xs">
+            <tr>
+                <th>Scheduled</th>
+                <th>Date</th>
+                <th>Status</th>
+                <th>From</th>
+                <th>Airline</th>
+                <th>Flight</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+                <tr>
+                    <td colspan="6" class="timetable-navigation timetable-navigation-prev">
+                        <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <circle cx="9" cy="9" r="8.6" stroke="#21262B" stroke-width="0.8"/>
+                            <path d="M8.68784 6.77759L5.1278 10.3377C5.0454 10.42 5 10.53 5 10.6472C5 10.7644 5.0454 10.8743 5.1278 10.9566L5.38992 11.2188C5.56071 11.3894 5.8383 11.3894 6.00884 11.2188L8.99834 8.22929L11.9912 11.2221C12.0736 11.3045 12.1834 11.3499 12.3006 11.3499C12.4178 11.3499 12.5277 11.3045 12.6101 11.2221L12.8722 10.9599C12.9546 10.8775 13 10.7677 13 10.6505C13 10.5333 12.9546 10.4234 12.8722 10.341L9.30891 6.77759C9.22624 6.69506 9.11587 6.64972 8.99854 6.64998C8.88075 6.64972 8.77044 6.69506 8.68784 6.77759Z" fill="#21262B"/>
+                        </svg>
+                        <a href="/widget/en/PNQ/arrivals?ts=1653479802091&amp;page=-1">
+                            Previous flights
+                        </a>
+                    </td>
+                </tr>
+            
+            
+            
+                
+                    <tr class="timetable-record status-scheduled">
+                        <td class="timetable-time">15:15</td>
+                        <td class="timetable-date">05/25</td>
+                        <td class="timetable-status">Scheduled </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/IXG/departures" title="Belgaum IXG departures">Belgaum IXG</a></td>
+                        <td class="timetable-airline">Alliance Air</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/9I_LLR/888?ts=1653476700000'>9I888</a> 
+                            <a href="" title="Codeshare flights" class="timetable-childrenCount">1</a>
+                        </td>
+                    </tr>
+                    
+                        
+                            <tr class="timetable-record status-scheduled timetable-childFlight">
+                                <td class="timetable-time">15:15</td>
+                                <td class="timetable-date">05/25</td>
+                                <td class="timetable-status">Scheduled </td>
+                                <td class="timetable-airport"><a target="_blank" href="/en/airport/IXG/departures" title="Belgaum IXG departures">Belgaum IXG</a></td>
+                                <td class="timetable-airline">Air India</td>
+                                <td class="timetable-flight"><a target="_blank" href='/en/flights/AI_AIC/9888?ts=1653476700000'>AI9888</a> 
+                                    <a href="" title="Codeshare flights" class="timetable-childrenCount">1</a>
+                                </td>
+                            </tr>
+                        
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">15:15</td>
+                        <td class="timetable-date">05/25</td>
+                        <td class="timetable-status">Landed 14:47</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/IXG/departures" title="Belgaum IXG departures">Belgaum IXG</a></td>
+                        <td class="timetable-airline">Alliance Air</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/9I_LLR/890?ts=1653475800000'>9I890</a> 
+                            <a href="" title="Codeshare flights" class="timetable-childrenCount">1</a>
+                        </td>
+                    </tr>
+                    
+                        
+                            <tr class="timetable-record status-landed timetable-childFlight">
+                                <td class="timetable-time">15:15</td>
+                                <td class="timetable-date">05/25</td>
+                                <td class="timetable-status">Landed 14:47</td>
+                                <td class="timetable-airport"><a target="_blank" href="/en/airport/IXG/departures" title="Belgaum IXG departures">Belgaum IXG</a></td>
+                                <td class="timetable-airline">Air India</td>
+                                <td class="timetable-flight"><a target="_blank" href='/en/flights/AI_AIC/9890?ts=1653475800000'>AI9890</a> 
+                                    <a href="" title="Codeshare flights" class="timetable-childrenCount">1</a>
+                                </td>
+                            </tr>
+                        
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">15:40</td>
+                        <td class="timetable-date">05/25</td>
+                        <td class="timetable-status">Landed 15:36</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/DEL/departures" title="Delhi DEL departures">Delhi DEL</a></td>
+                        <td class="timetable-airline">Indigo</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/6E_IGO/972?ts=1653474900000'>6E972</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">16:00</td>
+                        <td class="timetable-date">05/25</td>
+                        <td class="timetable-status">Landed 15:46</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/BHU/departures" title="Bhavnagar BHU departures">Bhavnagar BHU</a></td>
+                        <td class="timetable-airline">SpiceJet Ltd.</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/SG_SEJ/1080?ts=1653479100000'>SG1080</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">16:15</td>
+                        <td class="timetable-date">05/25</td>
+                        <td class="timetable-status">Landed </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/TIR/departures" title="Tirupati TIR departures">Tirupati TIR</a></td>
+                        <td class="timetable-airline">SpiceJet Ltd.</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/SG_SEJ/4051?ts=1653477900000'>SG4051</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">16:20</td>
+                        <td class="timetable-date">05/25</td>
+                        <td class="timetable-status">Landed 16:12</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/DEL/departures" title="Delhi DEL departures">Delhi DEL</a></td>
+                        <td class="timetable-airline">VISTARA</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/UK_VTI/997?ts=1653477000000'>UK997</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">16:45</td>
+                        <td class="timetable-date">05/25</td>
+                        <td class="timetable-status">Landed 16:37</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/MAA/departures" title="Chennai MAA departures">Chennai MAA</a></td>
+                        <td class="timetable-airline">Indigo</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/6E_IGO/319?ts=1653479700000'>6E319</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-estimated">
+                        <td class="timetable-time">16:55</td>
+                        <td class="timetable-date">05/25</td>
+                        <td class="timetable-status">Estimated 17:11</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/BBI/departures" title="Bhubaneswar BBI departures">Bhubaneswar BBI</a></td>
+                        <td class="timetable-airline">AirAsia</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/AK_AXM/319?ts=1653480600000'>AK319</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-landed">
+                        <td class="timetable-time">16:55</td>
+                        <td class="timetable-date">05/25</td>
+                        <td class="timetable-status">Landed </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/PAT/departures" title="Patna PAT departures">Patna PAT</a></td>
+                        <td class="timetable-airline">SpiceJet Ltd.</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/SG_SEJ/756?ts=1653479400000'>SG756</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-estimated">
+                        <td class="timetable-time">17:15</td>
+                        <td class="timetable-date">05/25</td>
+                        <td class="timetable-status">Estimated </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/HYD/departures" title="Hyderabad HYD departures">Hyderabad HYD</a></td>
+                        <td class="timetable-airline">Indigo</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/6E_IGO/202?ts=1653484200000'>6E202</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-estimated">
+                        <td class="timetable-time">17:25</td>
+                        <td class="timetable-date">05/25</td>
+                        <td class="timetable-status">Estimated 17:28</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/DEL/departures" title="Delhi DEL departures">Delhi DEL</a></td>
+                        <td class="timetable-airline">AirAsia</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/AK_AXM/768?ts=1653481800000'>AK768</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-scheduled">
+                        <td class="timetable-time">17:25</td>
+                        <td class="timetable-date">05/25</td>
+                        <td class="timetable-status">Scheduled </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/DEL/departures" title="Delhi DEL departures">Delhi DEL</a></td>
+                        <td class="timetable-airline">Air Asia (India) Private Limited</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/I5_IAD/768?ts=1653481800000'>I5768</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-estimated">
+                        <td class="timetable-time">18:10</td>
+                        <td class="timetable-date">05/25</td>
+                        <td class="timetable-status">Estimated 17:56</td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/DEL/departures" title="Delhi DEL departures">Delhi DEL</a></td>
+                        <td class="timetable-airline">Air India</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/AI_AIC/849?ts=1653484200000'>AI849</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-estimated">
+                        <td class="timetable-time">18:25</td>
+                        <td class="timetable-date">05/25</td>
+                        <td class="timetable-status">Estimated </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/BLR/departures" title="Bengaluru BLR departures">Bengaluru BLR</a></td>
+                        <td class="timetable-airline">Indigo</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/6E_IGO/528?ts=1653487500000'>6E528</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-estimated">
+                        <td class="timetable-time">18:40</td>
+                        <td class="timetable-date">05/25</td>
+                        <td class="timetable-status">Estimated </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/JAI/departures" title="Jaipur JAI departures">Jaipur JAI</a></td>
+                        <td class="timetable-airline">AirAsia</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/AK_AXM/1427?ts=1653487500000'>AK1427</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-estimated">
+                        <td class="timetable-time">19:25</td>
+                        <td class="timetable-date">05/25</td>
+                        <td class="timetable-status">Estimated </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/DEL/departures" title="Delhi DEL departures">Delhi DEL</a></td>
+                        <td class="timetable-airline">SpiceJet Ltd.</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/SG_SEJ/8938?ts=1653487500000'>SG8938</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-estimated">
+                        <td class="timetable-time">19:40</td>
+                        <td class="timetable-date">05/25</td>
+                        <td class="timetable-status">Estimated </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/DEL/departures" title="Delhi DEL departures">Delhi DEL</a></td>
+                        <td class="timetable-airline">Go Airlines (India) Ltd.</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/G8_GOW/2513?ts=1653486300000'>G82513</a> 
+                            <a href="" title="Codeshare flights" class="timetable-childrenCount">1</a>
+                        </td>
+                    </tr>
+                    
+                        
+                            <tr class="timetable-record status-estimated timetable-childFlight">
+                                <td class="timetable-time">19:40</td>
+                                <td class="timetable-date">05/25</td>
+                                <td class="timetable-status">Estimated </td>
+                                <td class="timetable-airport"><a target="_blank" href="/en/airport/DEL/departures" title="Delhi DEL departures">Delhi DEL</a></td>
+                                <td class="timetable-airline">FlexFlight ApS</td>
+                                <td class="timetable-flight"><a target="_blank" href='/en/flights/W2_FXT/9213?ts=1653486300000'>W29213</a> 
+                                    <a href="" title="Codeshare flights" class="timetable-childrenCount">1</a>
+                                </td>
+                            </tr>
+                        
+                    
+                
+            
+                
+                    <tr class="timetable-record status-scheduled">
+                        <td class="timetable-time">19:45</td>
+                        <td class="timetable-date">05/25</td>
+                        <td class="timetable-status">Scheduled </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/BLR/departures" title="Bengaluru BLR departures">Bengaluru BLR</a></td>
+                        <td class="timetable-airline">Go Airlines (India) Ltd.</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/G8_GOW/241?ts=1653491400000'>G8241</a> 
+                            <a href="" title="Codeshare flights" class="timetable-childrenCount">1</a>
+                        </td>
+                    </tr>
+                    
+                        
+                            <tr class="timetable-record status-scheduled timetable-childFlight">
+                                <td class="timetable-time">19:45</td>
+                                <td class="timetable-date">05/25</td>
+                                <td class="timetable-status">Scheduled </td>
+                                <td class="timetable-airport"><a target="_blank" href="/en/airport/BLR/departures" title="Bengaluru BLR departures">Bengaluru BLR</a></td>
+                                <td class="timetable-airline">FlexFlight ApS</td>
+                                <td class="timetable-flight"><a target="_blank" href='/en/flights/W2_FXT/8968?ts=1653491400000'>W28968</a> 
+                                    <a href="" title="Codeshare flights" class="timetable-childrenCount">1</a>
+                                </td>
+                            </tr>
+                        
+                    
+                
+            
+                
+                    <tr class="timetable-record status-scheduled">
+                        <td class="timetable-time">20:00</td>
+                        <td class="timetable-date">05/25</td>
+                        <td class="timetable-status">Scheduled </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/DEL/departures" title="Delhi DEL departures">Delhi DEL</a></td>
+                        <td class="timetable-airline">VISTARA</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/UK_VTI/991?ts=1653489300000'>UK991</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-estimated">
+                        <td class="timetable-time">20:00</td>
+                        <td class="timetable-date">05/25</td>
+                        <td class="timetable-status">Estimated </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/DEL/departures" title="Delhi DEL departures">Delhi DEL</a></td>
+                        <td class="timetable-airline">VISTARA</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/UK_VTI/991?ts=1653490200000'>UK991</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-scheduled">
+                        <td class="timetable-time">20:05</td>
+                        <td class="timetable-date">05/25</td>
+                        <td class="timetable-status">Scheduled </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/DEL/departures" title="Delhi DEL departures">Delhi DEL</a></td>
+                        <td class="timetable-airline">Indigo</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/6E_IGO/2143?ts=1653490500000'>6E2143</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-scheduled">
+                        <td class="timetable-time">20:35</td>
+                        <td class="timetable-date">05/25</td>
+                        <td class="timetable-status">Scheduled </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/DEL/departures" title="Delhi DEL departures">Delhi DEL</a></td>
+                        <td class="timetable-airline">Go Airlines (India) Ltd.</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/G8_GOW/171?ts=1653492000000'>G8171</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-scheduled">
+                        <td class="timetable-time">21:00</td>
+                        <td class="timetable-date">05/25</td>
+                        <td class="timetable-status">Scheduled </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/HYD/departures" title="Hyderabad HYD departures">Hyderabad HYD</a></td>
+                        <td class="timetable-airline">Alliance Air</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/9I_LLR/867?ts=1653493800000'>9I867</a> 
+                            <a href="" title="Codeshare flights" class="timetable-childrenCount">1</a>
+                        </td>
+                    </tr>
+                    
+                        
+                            <tr class="timetable-record status-scheduled timetable-childFlight">
+                                <td class="timetable-time">21:00</td>
+                                <td class="timetable-date">05/25</td>
+                                <td class="timetable-status">Scheduled </td>
+                                <td class="timetable-airport"><a target="_blank" href="/en/airport/HYD/departures" title="Hyderabad HYD departures">Hyderabad HYD</a></td>
+                                <td class="timetable-airline">Air India</td>
+                                <td class="timetable-flight"><a target="_blank" href='/en/flights/AI_AIC/9867?ts=1653493800000'>AI9867</a> 
+                                    <a href="" title="Codeshare flights" class="timetable-childrenCount">1</a>
+                                </td>
+                            </tr>
+                        
+                    
+                
+            
+                
+                    <tr class="timetable-record status-scheduled">
+                        <td class="timetable-time">21:25</td>
+                        <td class="timetable-date">05/25</td>
+                        <td class="timetable-status">Scheduled </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/MAA/departures" title="Chennai MAA departures">Chennai MAA</a></td>
+                        <td class="timetable-airline">SpiceJet Ltd.</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/SG_SEJ/443?ts=1653496800000'>SG443</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-scheduled">
+                        <td class="timetable-time">21:45</td>
+                        <td class="timetable-date">05/25</td>
+                        <td class="timetable-status">Scheduled </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/BLR/departures" title="Bengaluru BLR departures">Bengaluru BLR</a></td>
+                        <td class="timetable-airline">Indigo</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/6E_IGO/426?ts=1653498900000'>6E426</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-scheduled">
+                        <td class="timetable-time">22:00</td>
+                        <td class="timetable-date">05/25</td>
+                        <td class="timetable-status">Scheduled </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/DEL/departures" title="Delhi DEL departures">Delhi DEL</a></td>
+                        <td class="timetable-airline">Go Airlines (India) Ltd.</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/G8_GOW/275?ts=1653498000000'>G8275</a> 
+                            <a href="" title="Codeshare flights" class="timetable-childrenCount">1</a>
+                        </td>
+                    </tr>
+                    
+                        
+                            <tr class="timetable-record status-scheduled timetable-childFlight">
+                                <td class="timetable-time">22:00</td>
+                                <td class="timetable-date">05/25</td>
+                                <td class="timetable-status">Scheduled </td>
+                                <td class="timetable-airport"><a target="_blank" href="/en/airport/DEL/departures" title="Delhi DEL departures">Delhi DEL</a></td>
+                                <td class="timetable-airline">FlexFlight ApS</td>
+                                <td class="timetable-flight"><a target="_blank" href='/en/flights/W2_FXT/8980?ts=1653498000000'>W28980</a> 
+                                    <a href="" title="Codeshare flights" class="timetable-childrenCount">1</a>
+                                </td>
+                            </tr>
+                        
+                    
+                
+            
+                
+                    <tr class="timetable-record status-scheduled">
+                        <td class="timetable-time">22:05</td>
+                        <td class="timetable-date">05/25</td>
+                        <td class="timetable-status">Scheduled </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/AMD/departures" title="Ahmedabad AMD departures">Ahmedabad AMD</a></td>
+                        <td class="timetable-airline">Indigo</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/6E_IGO/794?ts=1653501000000'>6E794</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-scheduled">
+                        <td class="timetable-time">22:10</td>
+                        <td class="timetable-date">05/25</td>
+                        <td class="timetable-status">Scheduled </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/AMD/departures" title="Ahmedabad AMD departures">Ahmedabad AMD</a></td>
+                        <td class="timetable-airline">SpiceJet Ltd.</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/SG_SEJ/1084?ts=1653500100000'>SG1084</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-scheduled">
+                        <td class="timetable-time">22:15</td>
+                        <td class="timetable-date">05/25</td>
+                        <td class="timetable-status">Scheduled </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/NAG/departures" title="Nagpur NAG departures">Nagpur NAG</a></td>
+                        <td class="timetable-airline">Go Airlines (India) Ltd.</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/G8_GOW/284?ts=1653501300000'>G8284</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-scheduled">
+                        <td class="timetable-time">22:30</td>
+                        <td class="timetable-date">05/25</td>
+                        <td class="timetable-status">Scheduled </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/AMD/departures" title="Ahmedabad AMD departures">Ahmedabad AMD</a></td>
+                        <td class="timetable-airline">Go Airlines (India) Ltd.</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/G8_GOW/721?ts=1653502500000'>G8721</a> 
+                            <a href="" title="Codeshare flights" class="timetable-childrenCount">1</a>
+                        </td>
+                    </tr>
+                    
+                        
+                            <tr class="timetable-record status-scheduled timetable-childFlight">
+                                <td class="timetable-time">22:30</td>
+                                <td class="timetable-date">05/25</td>
+                                <td class="timetable-status">Scheduled </td>
+                                <td class="timetable-airport"><a target="_blank" href="/en/airport/AMD/departures" title="Ahmedabad AMD departures">Ahmedabad AMD</a></td>
+                                <td class="timetable-airline">FlexFlight ApS</td>
+                                <td class="timetable-flight"><a target="_blank" href='/en/flights/W2_FXT/9111?ts=1653502500000'>W29111</a> 
+                                    <a href="" title="Codeshare flights" class="timetable-childrenCount">1</a>
+                                </td>
+                            </tr>
+                        
+                    
+                
+            
+                
+                    <tr class="timetable-record status-scheduled">
+                        <td class="timetable-time">22:35</td>
+                        <td class="timetable-date">05/25</td>
+                        <td class="timetable-status">Scheduled </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/STV/departures" title="Surat Gujarat STV departures">Surat Gujarat STV</a></td>
+                        <td class="timetable-airline">Go Airlines (India) Ltd.</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/G8_GOW/2208?ts=1653503700000'>G82208</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-scheduled">
+                        <td class="timetable-time">23:00</td>
+                        <td class="timetable-date">05/25</td>
+                        <td class="timetable-status">Scheduled </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/CJB/departures" title="Coimbatore CJB departures">Coimbatore CJB</a></td>
+                        <td class="timetable-airline">Indigo</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/6E_IGO/674?ts=1653503400000'>6E674</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-scheduled">
+                        <td class="timetable-time">23:00</td>
+                        <td class="timetable-date">05/25</td>
+                        <td class="timetable-status">Scheduled </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/DEL/departures" title="Delhi DEL departures">Delhi DEL</a></td>
+                        <td class="timetable-airline">VISTARA</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/UK_VTI/973?ts=1653500700000'>UK973</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-scheduled">
+                        <td class="timetable-time">23:05</td>
+                        <td class="timetable-date">05/25</td>
+                        <td class="timetable-status">Scheduled </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/DEL/departures" title="Delhi DEL departures">Delhi DEL</a></td>
+                        <td class="timetable-airline">Indigo</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/6E_IGO/671?ts=1653501900000'>6E671</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-scheduled">
+                        <td class="timetable-time">23:10</td>
+                        <td class="timetable-date">05/25</td>
+                        <td class="timetable-status">Scheduled </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/IXR/departures" title="Ranchi IXR departures">Ranchi IXR</a></td>
+                        <td class="timetable-airline">Indigo</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/6E_IGO/6411?ts=1653500700000'>6E6411</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-scheduled">
+                        <td class="timetable-time">23:25</td>
+                        <td class="timetable-date">05/25</td>
+                        <td class="timetable-status">Scheduled </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/BLR/departures" title="Bengaluru BLR departures">Bengaluru BLR</a></td>
+                        <td class="timetable-airline">AirAsia</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/AK_AXM/974?ts=1653506100000'>AK974</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-scheduled">
+                        <td class="timetable-time">23:30</td>
+                        <td class="timetable-date">05/25</td>
+                        <td class="timetable-status">Scheduled </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/HYD/departures" title="Hyderabad HYD departures">Hyderabad HYD</a></td>
+                        <td class="timetable-airline">Indigo</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/6E_IGO/118?ts=1653506100000'>6E118</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-scheduled">
+                        <td class="timetable-time">23:35</td>
+                        <td class="timetable-date">05/25</td>
+                        <td class="timetable-status">Scheduled </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/IXC/departures" title="Chandigarh IXC departures">Chandigarh IXC</a></td>
+                        <td class="timetable-airline">Indigo</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/6E_IGO/6876?ts=1653502500000'>6E6876</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-scheduled">
+                        <td class="timetable-time">23:40</td>
+                        <td class="timetable-date">05/25</td>
+                        <td class="timetable-status">Scheduled </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/CCU/departures" title="Kolkata CCU departures">Kolkata CCU</a></td>
+                        <td class="timetable-airline">Indigo</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/6E_IGO/476?ts=1653501300000'>6E476</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-scheduled">
+                        <td class="timetable-time">00:10</td>
+                        <td class="timetable-date">05/26</td>
+                        <td class="timetable-status">Scheduled </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/JAI/departures" title="Jaipur JAI departures">Jaipur JAI</a></td>
+                        <td class="timetable-airline">Indigo</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/6E_IGO/385?ts=1653507300000'>6E385</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-scheduled">
+                        <td class="timetable-time">00:15</td>
+                        <td class="timetable-date">05/26</td>
+                        <td class="timetable-status">Scheduled </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/LKO/departures" title="Lucknow LKO departures">Lucknow LKO</a></td>
+                        <td class="timetable-airline">Indigo</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/6E_IGO/6807?ts=1653506700000'>6E6807</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-scheduled">
+                        <td class="timetable-time">00:20</td>
+                        <td class="timetable-date">05/26</td>
+                        <td class="timetable-status">Scheduled </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/MAA/departures" title="Chennai MAA departures">Chennai MAA</a></td>
+                        <td class="timetable-airline">Indigo</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/6E_IGO/862?ts=1653507300000'>6E862</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-scheduled">
+                        <td class="timetable-time">00:25</td>
+                        <td class="timetable-date">05/26</td>
+                        <td class="timetable-status">Scheduled </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/BLR/departures" title="Bengaluru BLR departures">Bengaluru BLR</a></td>
+                        <td class="timetable-airline">Indigo</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/6E_IGO/232?ts=1653509100000'>6E232</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-scheduled">
+                        <td class="timetable-time">01:00</td>
+                        <td class="timetable-date">05/26</td>
+                        <td class="timetable-status">Scheduled </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/NAG/departures" title="Nagpur NAG departures">Nagpur NAG</a></td>
+                        <td class="timetable-airline">Indigo</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/6E_IGO/835?ts=1653510900000'>6E835</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-scheduled">
+                        <td class="timetable-time">01:05</td>
+                        <td class="timetable-date">05/26</td>
+                        <td class="timetable-status">Scheduled </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/DEL/departures" title="Delhi DEL departures">Delhi DEL</a></td>
+                        <td class="timetable-airline">Air Asia (India) Private Limited</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/I5_IAD/737?ts=1653508200000'>I5737</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-scheduled">
+                        <td class="timetable-time">01:20</td>
+                        <td class="timetable-date">05/26</td>
+                        <td class="timetable-status">Scheduled </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/DEL/departures" title="Delhi DEL departures">Delhi DEL</a></td>
+                        <td class="timetable-airline">Indigo</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/6E_IGO/147?ts=1653510000000'>6E147</a> </td>
+                    </tr>
+                    
+                
+            
+                
+                    <tr class="timetable-record status-scheduled">
+                        <td class="timetable-time">02:10</td>
+                        <td class="timetable-date">05/26</td>
+                        <td class="timetable-status">Scheduled </td>
+                        <td class="timetable-airport"><a target="_blank" href="/en/airport/GAU/departures" title="Guwahati GAU departures">Guwahati GAU</a></td>
+                        <td class="timetable-airline">Indigo</td>
+                        <td class="timetable-flight"><a target="_blank" href='/en/flights/6E_IGO/6653?ts=1653508500000'>6E6653</a> </td>
+                    </tr>
+                    
+                
+            
+            
+        </tbody>
+    </table></main>
+    </body>
+</html>
